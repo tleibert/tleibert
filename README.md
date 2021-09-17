@@ -5,7 +5,7 @@ I’m a student studying Computer Science at North Carolina State University in 
 I’m interested in operating systems design and programming, web API's, command-line tools, and open source.
 
 
-I am also active on 
+I am also active on GitLab!
 
 ## Links:
 - ### [Personal Website](trevorleibert.xyz)
