@@ -1,4 +1,4 @@
-Hi, I’m Trevor Leibert
+# Hi, I’m Trevor Leibert
 
 I’m a student studying Computer Science at North Carolina State University in Raleigh, looking for a Summer 2022 internship.
 
