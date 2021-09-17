@@ -9,7 +9,7 @@ I am also active on GitLab!
 
 ## Links:
 - ### [Personal Website](trevorleibert.xyz)
-- ### GitLab(https://gitlab.com/tleibert)
+- ### [GitLab](https://gitlab.com/tleibert)
 
 <!---
 tleibert/tleibert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
